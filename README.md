@@ -11,8 +11,8 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 
 ## Professores responsáveis
 
+* Carlos Alberto Marques Pietrobon
 * Hayala Nepomuceno Curto
-* Nome completo do professor 2
 
 ## Instruções de utilização
 
