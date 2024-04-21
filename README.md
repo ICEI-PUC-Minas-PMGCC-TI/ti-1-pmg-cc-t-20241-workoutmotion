@@ -1,6 +1,6 @@
 # WorkoutMotion
 
-O projeto WorkoutMotion tem como objetivo ajudar as pessoas que tem interesse em fazer atividades físicas, mas não tem o conhecimento necessário, nem a motivação certa para começar. Nossa principal meta é ajudar essas pessoas dando dicas e incentivos para que continuem a prática.
+O projeto WorkoutMotion tem como objetivo ajudar as pessoas que tem interesse em fazer atividades físicas, mas não tem o conhecimento necessário, nem a motivação certa para começar. Nossa principal meta é ajudar essas pessoas dando dicas e incentivos para que continuem a prática, independente do lugar.
 
 ## Alunos integrantes da equipe
 
