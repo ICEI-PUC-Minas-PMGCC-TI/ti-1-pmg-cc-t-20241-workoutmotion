@@ -20,10 +20,7 @@ Esta seção traz explicações breves sobre o conjunto de artefatos que precisa
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
+O problema principal que motivou a criação desse projeto, é a falta de motivação a atividades físicas na sociedade atual, que é a geração mais tecnológica da história, então decidimos tentar utilizar essa tecnologia para ajudar as pessoas a se exercitarem mais, principalmente pessoas mais novas e que não são tão ativas nessas atividades.
 **Links Úteis**:
 
 - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -32,7 +29,8 @@ Nesse momento, o grupo pode optar por fazer uso de ferramentas como Design Think
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+O projeto WorkoutMotion tem como base a ideia de ajudar pessoas a registrarem seus exercícios físicos em uma página e recompensá-las com pontos virtuais por isso, visando evitar o sedentarismo e ajudar pessoas a se
+exercitarem do jeito correto.
 
 **Links Úteis**:
 
